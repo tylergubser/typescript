@@ -1,10 +1,11 @@
-function add(n1: number, n2: number) {
-    console.log(typeof number1);
-    return n1 + n2;
-}
+const person
+//     name: string;
+//     age: number;
+//     nickname: string;
 
-const number1 = 5;
-const number2 = 2.8;
-
-const result = add(number1, number2);
-console.log(result)
+ = {
+    name: "Tyler",
+    age: 35,
+    nickname: "TyGuy"
+};
+console.log(person.nickname)
