@@ -10,6 +10,14 @@
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+    "lite-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylergubser/typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tylergubser/typescript/issues"
+  },
+  "homepage": "https://github.com/tylergubser/typescript#readme"
 }
