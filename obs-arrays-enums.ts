@@ -11,6 +11,10 @@ const person
     hobbies: ['sports', 'animals'],
     role: Role.ADMIN
 };
+
+const animal = {
+    name: "Boujie"
+}
 console.log(person.nickname)
 
 for (const hobby of person.hobbies) {
