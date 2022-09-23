@@ -16,7 +16,8 @@ const animal = {
     name: "Boujie",
     species: "Cat",
     weight: 7,
-    
+    age: 6,
+
 }
 console.log(person.nickname)
 
