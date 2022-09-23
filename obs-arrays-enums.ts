@@ -13,7 +13,8 @@ const person
 };
 
 const animal = {
-    name: "Boujie"
+    name: "Boujie",
+    species: "Cat",
 }
 console.log(person.nickname)
 
