@@ -18,7 +18,7 @@ const animal = {
     weight: 7,
     age: 6,
 
-}
+};
 console.log(person.nickname)
 
 for (const hobby of person.hobbies) {
